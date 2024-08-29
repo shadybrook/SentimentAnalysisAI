@@ -13,4 +13,10 @@ Total params: 771,713 (2.94 MB)
 Trainable params: 771,713 (2.94 MB)
 Non-trainable params: 0 (0.00 B)
 
-![Lexfridman_SentimentAnalysis1](https://github.com/user-attachments/assets/d5ecd3a0-d9f6-4f0c-8e44-898901725406)
+# Lex Friedman's Instagram Comments Sentiment Analysis. 
+
+![Lexfridman_SentimentAnalysis1](https://github.com/user-attachments/assets/3cda2300-d0da-4f8a-8c96-4cb7189d1eb4)
+
+![Lexfridman_SentimentAnalysis2](https://github.com/user-attachments/assets/6956e5e9-a271-4ea4-81a0-aa7332c97c25)
+
+![Lexfridman_SentimentAnalysis3](https://github.com/user-attachments/assets/c058d552-7cae-4e53-91b3-e8fddd8fad99)
