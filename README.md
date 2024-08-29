@@ -1,8 +1,7 @@
 # BasicSentimentAnalysisAI
 This is an AI model that uses LSTM to provide sentiment analysis for Movie Reviews and categorizes them as Positive or Negative.
 
-Its trained on 50,000 IMDB reviews. 
-(https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/input)
+Trained on 50,000 IMDB reviews. 
 
 Test Loss: 0.3247220814228058
 Test Accuracy: 0.8736000061035156
