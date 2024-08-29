@@ -13,7 +13,7 @@ Total params: 771,713 (2.94 MB)
 Trainable params: 771,713 (2.94 MB)
 Non-trainable params: 0 (0.00 B)
 
-# Lex Friedman's Instagram Comments Sentiment Analysis. 
+# Lex Friedman's Instagram Comments Sentiment Analysis on Telegram Founders Arrest. 
 
 ![Lexfridman_SentimentAnalysis1](https://github.com/user-attachments/assets/3cda2300-d0da-4f8a-8c96-4cb7189d1eb4)
 
