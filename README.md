@@ -7,6 +7,7 @@ Trained on 50,000 IMDB reviews.
 
 
 Test Accuracy: 0.888700
+
 Test Loss: 0.2717922925
 
 Total params: 771,713 (2.94 MB)
